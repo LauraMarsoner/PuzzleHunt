@@ -39,7 +39,7 @@
 
 <p>
 <div>
-<img align="right" width="47%" height="auto" src="https://user-images.githubusercontent.com/42000334/230614777-5e113e76-0f86-4f16-9438-6313d20b1457.jpg">
+<img align="right" width="50%" height="auto" src="https://user-images.githubusercontent.com/42000334/230614777-5e113e76-0f86-4f16-9438-6313d20b1457.jpg">
  <br>
 <h1>Responsibilities</h1>
 <li>UI Design</li>
