@@ -19,6 +19,7 @@
 
 ---
 
+
 <p>
 <img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356173-6fc36fd0-479b-45f7-9951-6359514ab732.jpg">
  <br>
@@ -38,8 +39,7 @@
 
 <p>
 <div>
-<img align="right" width="47%" height="auto" src="https://user-images.githubusercontent.com/104200268/229356609-da4fde8a-7fe5-4a16-9e17-ee0c75489f78.jpg">
-<br>
+<img align="right" width="47%" height="auto" src="https://user-images.githubusercontent.com/42000334/230614777-5e113e76-0f86-4f16-9438-6313d20b1457.jpg">
  <br>
 <h1>Responsibilities</h1>
 <li>UI Design</li>
@@ -53,7 +53,6 @@
 </div>
 </p>
 
-<br>
  <br>
  
 <p>
