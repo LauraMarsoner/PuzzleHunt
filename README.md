@@ -58,7 +58,7 @@
  
 <p>
 <div>
-<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/104200268/229357404-977edd8f-7a90-4829-9a33-8aa3956f8cfb.jpg">
+<img align="left" width="50%" height="auto" src="https://user-images.githubusercontent.com/42000334/230614491-be329cd9-7956-4a43-9feb-6e32efa6800d.jpg">
 <br>
  <br>
  <br>
